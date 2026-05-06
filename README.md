@@ -37,7 +37,7 @@ Each team completes only the Python file for its assigned department.
 | Department of Water | `water.py` |
 | Department of Housing | `housing.py` |
 
-Do not complete the other department files unless your instructor tells you to.
+Do not complete the other department files unless otherwise instructed.
 
 ---
 
